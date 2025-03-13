@@ -56,9 +56,6 @@ The pre-trained CNN (`model.h5`) uses:
 - Achieved **~65% test accuracy** on the FER2013 dataset.
 - Optimized for real-time performance with minimal lag during inference.
 
-## Contributing
-Contributions are welcome! Open an issue or submit a PR for improvements to the notebook or documentation.
-
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
 
