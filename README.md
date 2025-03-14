@@ -4,7 +4,7 @@ A deep learning-based Facial Expression Recognition (FER) system using Convoluti
 
 
 ## Key Features
-- **Pre-trained CNN Model**: A VGG-inspired architecture trained on the FER2013 dataset (saved as `model.h5`).
+- **Pre-trained CNN Model**: A CNN architecture trained on the FER2013 dataset (saved as `model.h5`).
 - **Real-Time Detection**: Jupyter Notebook script for live emotion prediction using a webcam.
 - **Easy Setup**: Load the model and run inference directly with provided code.
 
@@ -61,4 +61,3 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 - Dataset: [FER2013 on Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
-- Model architecture inspired by VGG-style CNNs.
